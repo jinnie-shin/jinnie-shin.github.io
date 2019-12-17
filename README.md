@@ -1,6 +1,5 @@
-# Title
+# Introduction to Machine Learning with Python - CRAME Study Group
 
-### [Reveal Slide Instructions](./Reveal/README.md) <-- Remove this before updating your repo
 
 ## Course Description
 
